@@ -5,7 +5,7 @@ public class DaqueMain {
     public static void main(String[] args) {
         DequeClass objDeque = new DequeClass();
         DequeInput deuqueInput = new DequeInput();
-        
+
         int dequeSize = deuqueInput.getSize();
         int size = deuqueInput.getSubsetSize();
 
